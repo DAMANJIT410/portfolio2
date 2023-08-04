@@ -1,0 +1,20 @@
+img#banner {
+    height: 371px;
+    object-fit: cover;
+    object-position: top;
+    border-radius: 0px 87px;
+}
+.banner-top {
+    background-color: #86ac63;
+    color: white;
+}
+body {
+    background: #f4fbed;
+}
+img#bottom-img {
+    height: 500px;
+    object-fit: cover;
+    object-position: top;
+    border: 2px solid #86ac63;
+    padding: 37px;
+}
